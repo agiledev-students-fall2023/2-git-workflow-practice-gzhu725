@@ -5,3 +5,6 @@
 ## Richards Comments
 
 I wonder how Amazon plans on making it so that their AI is capable of being more accurate and how they will prevent people from recieivng misinformation.
+
+##Christine's comments
+I also have the same thoughts as Richard...Wish the article would tell us more about how Amazon is going to implement it and prevent hallucination from happening.
